@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1606854756 source:/home/ayman/Desktop/C stuff/Address_Book/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"address_book.h"
+
+1606854658 /home/ayman/Desktop/C stuff/Address_Book/address_book.h
+
+1606854947 source:/home/ayman/Desktop/C stuff/Address_Book/address_book.c
+	"address_book.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
